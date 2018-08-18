@@ -1,3 +1,7 @@
+# Status
+
+Currently archived due to inactivity. Code might be used for another project.
+
 ## Synopsis
 
 A Xianxia inspired **incremental/idle** Game made in JS HTML
