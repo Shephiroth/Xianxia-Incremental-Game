@@ -24,4 +24,4 @@ ExpiresDefault "access 1 month"
 </IfModule>
 RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://killtheplanet.xyz/$1 [R=301,L]
+RewriteRule ^(.*)$ https://xi.khdev.ch/$1 [R=301,L]
