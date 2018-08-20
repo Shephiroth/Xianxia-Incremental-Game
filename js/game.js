@@ -730,7 +730,7 @@ async function battle() {
         case 1:
             encountermob.id = chance.integer({min: 0, max: 4});
 
-    }
+    };
     encountermob.name = _battlemonsters[encountermob.id].name;
     encountermob.blood = _battlemonsters[encountermob.id].blood;
     encountermob.attack = chance.integer({
